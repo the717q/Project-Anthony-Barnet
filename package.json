@@ -1,0 +1,14 @@
+{
+  "name": "projeto-anthony-barnet",
+  "version": "1.0.0",
+  "description": "Project Anthony Barnet",
+  "main": "script.js",
+  "scripts": {
+    "scss": "sass --watch /styles/index.scss /styles/index.css"
+  },
+  "author": "Andre Silveira",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
